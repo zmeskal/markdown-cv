@@ -12,16 +12,17 @@ Idealist, fan of common sense, software engineer
 
 ## About
 
-I'm working in software industry since 2011 and I'm still rookie.
-I've been working on various projects from different domains (aviation, media intelligence)
-on various tasks
-(bugfixes, design and implementation of new features, writing tests, data migrations, ..)
-I'm used to work in team of professionals (both distributed and co-located teams),
-I'm able to work in agile development.
+In software industry since 2011. Worked on projects from different domains of market,
+including DMS for aviation industry, customized media intelligence product for b2b portal from domain of PR, marketing and journalism. 
+Besides usual work for clients focuses on seeking new technologies together with deepening knowledge of used ones.
+Contributor of company blog (https://blog.cngroup.dk/author/JZM/).
+
+Used to work in team, distributed and co-located. Able to work in agile companies. 
 
 ### Specialized in
 
-Apps on Java platform(backends), currently more involved in web development.
+Java platform - both JSE, JEE with overlap to FE frameworks like angular,
+Spring framework, ORM 
 
 ## Tech Skills
 
