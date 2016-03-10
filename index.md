@@ -80,6 +80,26 @@ German  beginner
 `2011 - now`
 _Software developer_, CN Resources International (CZ) a.s.
 
+## Projects within CN Group
+
+`2015 - now`
+_Member of Java Competency group_
+Explorer and Pioneer of new technologies, attendant of Java-Related conferences (Geecon, JUG, Devel, M-Dev talk)
+
+`2013 - now`
+_Project B_
+_Portal solution consisting of small backend services, REST/Soap apis, asynchronous messaging and frontend (I've been working 80% on BE)_
+Responsible for design and implementation of new functionality, with strong orientation on business aspect, tests ration and maintainability.
+Support for live applications in case something went wrong and dev knowledge was necessary. Peer reviewer of new code. We were aiming on CD.
+Member of Scrumban team 
+
+`2011 - 2013`
+_Project A_
+_Client-Server application (Thick Swing UI, Weblogic)_
+ Responsible for bugfixes, new features (from designs to implementation), unit/integration tests in large codebase
+ Member of Prague scrum team (distributed environment)
+ 
+
 `2009 - 2011`
 _Various temporary jobs_, includes Tea master in tea room, apple picker, customers care, ...
 
